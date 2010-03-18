@@ -7,7 +7,7 @@
  *
  * @category  Libraries
  * @author    Phil Sturgeon, modifications Dan Drinkard
- * @link    http://philsturgeon.co.uk/code/codeigniter-cache
+ * @link      http://github.com/dndrnkrd/codeigniter-cache
  * @license   MIT
  * @version   2.1
  */
@@ -22,7 +22,7 @@ class Cache
   private $default_expires;
   private $created;
   private $dependencies;
-  
+
   /**
    * Constructor - Initializes and references CI
    */
